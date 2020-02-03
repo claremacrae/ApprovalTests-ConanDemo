@@ -46,7 +46,7 @@ test cases: 1 | 1 failed
 assertions: 1 | 1 failed
 ```
 
-If I copy the contents of `hello.HelloApproval.approved.txt` to `hello.HelloApproval.approved.txt` and run again, the test will pass
+If I copy the contents of `hello.HelloApproval.received.txt` to `hello.HelloApproval.approved.txt` and run again, the test will pass
 
 ```shell script
 $ ./build/bin/AT_demo 
